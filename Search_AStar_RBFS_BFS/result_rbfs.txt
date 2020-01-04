@@ -1,0 +1,160 @@
+File: Puzzle2-2
+Reached goal in 0.24670815467834473seconds
+Number of states expanded:246
+Maximum length of queue:1476
+Length of the path:9
+Steps to goal:
+start -> long90_270_dec -> long90_270_dec -> equa_inc -> equa_inc -> equa_inc -> long90_270_dec -> equa_inc -> long90_270_inc -> long0_180_dec -> goal
+
+File: Puzzle2-3
+Reached goal in 1.3660609722137451seconds
+Number of states expanded:1233
+Maximum length of queue:7398
+Length of the path:8
+Steps to goal:
+start -> equa_inc -> long0_180_inc -> long90_270_dec -> equa_dec -> long90_270_inc -> long90_270_inc -> equa_dec -> long0_180_inc -> goal
+
+File: Puzzle2-4
+Reached goal in 34.25147223472595seconds
+Number of states expanded:31514
+Maximum length of queue:189084
+Length of the path:11
+Steps to goal:
+start -> long0_180_inc -> long0_180_inc -> long90_270_inc -> long0_180_dec -> equa_inc -> long90_270_dec -> equa_inc -> long90_270_inc -> equa_inc -> long0_180_dec -> long0_180_dec -> goal
+
+File: Puzzle2-5
+Reached goal in 42.06346273422241seconds
+Number of states expanded:38163
+Maximum length of queue:228978
+Length of the path:12
+Steps to goal:
+start -> long90_270_dec -> long90_270_dec -> equa_dec -> long90_270_inc -> equa_dec -> equa_dec -> long0_180_inc -> long0_180_inc -> equa_inc -> long0_180_inc -> long0_180_inc -> long0_180_inc -> goal
+
+File: Puzzle2-6
+Reached goal in 13.62032699584961seconds
+Number of states expanded:12777
+Maximum length of queue:76662
+Length of the path:16
+Steps to goal:
+start -> long90_270_inc -> equa_inc -> equa_inc -> long90_270_dec -> long90_270_dec -> long90_270_dec -> long90_270_dec -> equa_inc -> equa_inc -> long0_180_inc -> equa_inc -> long0_180_inc -> long90_270_dec -> equa_dec -> long90_270_dec -> long90_270_dec -> goal
+
+File: Puzzle2-8
+Reached goal in 3.497126817703247seconds
+Number of states expanded:3578
+Maximum length of queue:21468
+Length of the path:7
+Steps to goal:
+start -> equa_dec -> long0_180_dec -> long0_180_dec -> long90_270_dec -> long0_180_inc -> long90_270_inc -> long0_180_inc -> goal
+
+File: Puzzle2-9
+Reached goal in 1.002436876296997seconds
+Number of states expanded:1089
+Maximum length of queue:6534
+Length of the path:10
+Steps to goal:
+start -> long0_180_inc -> long90_270_inc -> long90_270_inc -> equa_inc -> long0_180_inc -> equa_dec -> equa_dec -> long90_270_inc -> long0_180_inc -> long0_180_inc -> goal
+
+File: Puzzle2-11
+Reached goal in 0.18952107429504395seconds
+Number of states expanded:187
+Maximum length of queue:1122
+Length of the path:7
+Steps to goal:
+start -> equa_dec -> equa_dec -> long90_270_dec -> equa_dec -> long90_270_inc -> long0_180_dec -> long90_270_inc -> goal
+
+File: Puzzle2-12
+Reached goal in 0.5014219284057617seconds
+Number of states expanded:524
+Maximum length of queue:3144
+Length of the path:7
+Steps to goal:
+start -> long0_180_dec -> long90_270_dec -> equa_inc -> equa_inc -> long0_180_inc -> equa_dec -> long90_270_dec -> goal
+
+File: Puzzle2-13
+Reached goal in 6012.775228023529seconds
+Number of states expanded:1590551
+Maximum length of queue:9543306
+Length of the path:13
+Steps to goal:
+start -> long0_180_dec -> equa_dec -> long0_180_dec -> long90_270_dec -> equa_inc -> equa_inc -> long90_270_inc -> long0_180_inc -> equa_dec -> equa_dec -> long0_180_inc -> long90_270_inc -> long0_180_dec -> goal
+
+File: Puzzle2-14
+Reached goal in 5.813715934753418seconds
+Number of states expanded:6285
+Maximum length of queue:37710
+Length of the path:14
+Steps to goal:
+start -> long90_270_dec -> long0_180_inc -> long0_180_inc -> equa_dec -> long0_180_inc -> long0_180_inc -> long90_270_dec -> long90_270_dec -> equa_dec -> long0_180_dec -> long0_180_dec -> long0_180_inc -> long0_180_dec -> long90_270_dec -> goal
+
+File: Puzzle2-15
+Reached goal in 545.3642430305481seconds
+Number of states expanded:560256
+Maximum length of queue:3361536
+Length of the path:10
+Steps to goal:
+start -> long0_180_inc -> equa_dec -> long0_180_dec -> long90_270_inc -> long0_180_dec -> equa_inc -> long0_180_inc -> long90_270_dec -> equa_dec -> long90_270_dec -> goal
+
+File: Puzzle2-16
+Reached goal in 0.5277998447418213seconds
+Number of states expanded:803
+Maximum length of queue:4818
+Length of the path:10
+Steps to goal:
+start -> long0_180_inc -> long90_270_dec -> equa_inc -> long0_180_dec -> long0_180_dec -> equa_inc -> long0_180_dec -> long0_180_inc -> long0_180_dec -> long90_270_inc -> goal
+
+File: Puzzle2-18
+Reached goal in 61.96150612831116seconds
+Number of states expanded:67798
+Maximum length of queue:406788
+Length of the path:12
+Steps to goal:
+start -> equa_inc -> long90_270_inc -> equa_inc -> equa_inc -> equa_inc -> long90_270_dec -> long90_270_dec -> long0_180_inc -> equa_dec -> long90_270_inc -> long90_270_inc -> long0_180_dec -> goal
+
+File: Puzzle2-0
+Reached goal in 4247.841346025467seconds
+Number of states expanded:2287525
+Maximum length of queue:13725150
+Length of the path:15
+Steps to goal:
+start -> long90_270_dec -> equa_inc -> long0_180_dec -> equa_dec -> equa_dec -> long0_180_inc -> long90_270_inc -> long0_180_inc -> long90_270_inc -> long0_180_inc -> long0_180_inc -> long0_180_dec -> long90_270_inc -> equa_inc -> long0_180_inc -> goal
+
+File: Puzzle2-1
+Reached goal in 717.3583438396454seconds
+Number of states expanded:815785
+Maximum length of queue:4894710
+Length of the path:16
+Steps to goal:
+start -> long0_180_inc -> long0_180_inc -> long90_270_inc -> long0_180_dec -> long90_270_inc -> equa_inc -> long0_180_inc -> equa_inc -> long0_180_inc -> long0_180_inc -> long0_180_inc -> long0_180_dec -> equa_inc -> long90_270_dec -> equa_inc -> long90_270_dec -> goal
+
+File: Puzzle2-7
+Reached goal in 99.90949606895447seconds
+Number of states expanded:131186
+Maximum length of queue:787116
+Length of the path:16
+Steps to goal:
+start -> long0_180_inc -> equa_dec -> long0_180_inc -> long90_270_dec -> equa_inc -> long0_180_inc -> long90_270_dec -> long0_180_inc -> long0_180_inc -> long0_180_inc -> long0_180_inc -> long90_270_inc -> equa_inc -> long0_180_inc -> equa_dec -> long0_180_inc -> goal
+
+File: Puzzle2-7
+Reached goal in 151.00404572486877seconds
+Number of states expanded:131186
+Maximum length of queue:787116
+Length of the path:16
+Steps to goal:
+start -> long0_180_inc -> equa_dec -> long0_180_inc -> long90_270_dec -> equa_inc -> long0_180_inc -> long90_270_dec -> long0_180_inc -> long0_180_inc -> long0_180_inc -> long0_180_inc -> long90_270_inc -> equa_inc -> long0_180_inc -> equa_dec -> long0_180_inc -> goal
+
+File: Puzzle2-10
+Reached goal in 1953.6180038452148seconds
+Number of states expanded:1262684
+Maximum length of queue:7576104
+Length of the path:8
+Steps to goal:
+start -> long0_180_inc -> long90_270_dec -> long0_180_inc -> long90_270_dec -> long90_270_inc -> equa_inc -> long90_270_dec -> long90_270_inc -> goal
+
+File: Puzzle2-17
+Reached goal in 1800.0003566741943seconds
+Number of states expanded:1373234
+Maximum length of queue:8239404
+Length of the path:7
+Steps to goal:
+start -> long90_270_inc -> equa_dec -> equa_dec -> equa_inc -> equa_inc -> equa_inc -> long0_180_dec -> goal
+

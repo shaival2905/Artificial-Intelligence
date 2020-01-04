@@ -1,0 +1,184 @@
+File: Puzzle2-0
+Algorithm stopped at 8 level
+Number of states expanded:209152
+Maximum length of queue:796384
+Length of the path:8
+Steps to goal:
+start -> equa_dec -> long0_180_inc -> equa_inc -> long90_270_inc -> long90_270_inc -> equa_dec -> long0_180_inc -> long90_270_dec
+
+File: Puzzle2-1
+Algorithm stopped at 7 level
+Number of states expanded:38923
+Maximum length of queue:149881
+Length of the path:7
+Steps to goal:
+start -> equa_dec -> long0_180_dec -> equa_dec -> long90_270_inc -> long0_180_inc -> long90_270_dec -> long0_180_inc
+
+File: Puzzle2-2
+Algorithm stopped at 7 level
+Number of states expanded:37397
+Maximum length of queue:144045
+Length of the path:7
+Steps to goal:
+start -> equa_dec -> long90_270_inc -> long0_180_dec -> long90_270_dec -> equa_inc -> long0_180_dec -> long90_270_inc
+
+File: Puzzle2-3
+Algorithm stopped at 8 level
+Number of states expanded:142072
+Maximum length of queue:541966
+Length of the path:8
+Steps to goal:
+start -> equa_dec -> equa_dec -> long90_270_inc -> equa_inc -> long0_180_dec -> long0_180_dec -> equa_inc -> long90_270_dec
+
+File: Puzzle2-8
+Algorithm stopstoppeded at 6 level
+Number of states expanded:21019
+Maximum length of queue:81085
+Length of the path:6
+Steps to goal:
+start -> long0_180_dec -> equa_dec -> long0_180_inc -> long90_270_dec -> equa_inc -> long0_180_inc
+
+File: Puzzle2-9
+Algorithm stopped at 8 level
+Number of states expanded:221916
+Maximum length of queue:844628
+Length of the path:8
+Steps to goal:
+start -> equa_inc -> equa_inc -> equa_inc -> equa_inc -> long0_180_inc -> long90_270_inc -> long0_180_dec -> long0_180_dec
+
+File: Puzzle2-10
+Algorithm stopped at 8 level
+Number of states expanded:149679
+Maximum length of queue:571139
+Length of the path:8
+Steps to goal:
+start -> equa_dec -> equa_dec -> long0_180_inc -> long90_270_dec -> long90_270_dec -> equa_dec -> long90_270_dec -> equa_inc
+
+File: Puzzle2-11
+Reached goal
+Number of states expanded:28331
+Maximum length of queue:109246
+Length of the path:7
+Steps to goal:
+start -> equa_dec -> equa_dec -> long90_270_dec -> equa_dec -> long90_270_inc -> long0_180_dec -> long90_270_inc -> goal
+
+File: Puzzle2-12
+Reached goal
+Number of states expanded:106666
+Maximum length of queue:407831
+Length of the path:7
+Steps to goal:
+start -> long0_180_dec -> long90_270_dec -> equa_inc -> equa_inc -> long0_180_inc -> equa_dec -> long90_270_dec -> goal
+
+File: Puzzle2-13
+Algorithm stopped at 8 level
+Number of states expanded:188442
+Maximum length of queue:718364
+Length of the path:8
+Steps to goal:
+start -> equa_dec -> long0_180_dec -> equa_dec -> long90_270_inc -> long90_270_inc -> equa_dec -> long90_270_inc -> long0_180_dec
+
+File: Puzzle2-14
+Algorithm stopped at 8 level
+Number of states expanded:217975
+Maximum length of queue:829537
+Length of the path:8
+Steps to goal:
+start -> equa_dec -> long0_180_inc -> long0_180_inc -> equa_dec -> long90_270_inc -> equa_dec -> equa_dec -> long0_180_inc
+
+File: Puzzle2-15
+Algorithm stopped at 8 level
+Number of states expanded:221558
+Maximum length of queue:843193
+Length of the path:8
+Steps to goal:
+start -> equa_inc -> equa_inc -> equa_inc -> equa_inc -> long90_270_inc -> equa_inc -> long0_180_inc -> equa_dec
+
+File: Puzzle2-16
+Algorithm stopped at 8 level
+Number of states expanded:221504
+Maximum length of queue:842976
+Length of the path:8
+Steps to goal:
+start -> equa_inc -> equa_inc -> equa_inc -> equa_inc -> long90_270_inc -> equa_dec -> equa_dec -> equa_dec
+
+File: Puzzle2-17
+Algorithm stopped at 8 level
+Number of states expanded:205787
+Maximum length of queue:783795
+Length of the path:8
+Steps to goal:
+start -> equa_dec -> long0_180_inc -> equa_dec -> long90_270_inc -> long90_270_inc -> long0_180_inc -> equa_inc -> long90_270_inc
+
+File: Puzzle2-18
+Algorithm stopped at 8 level
+Number of states expanded:220555
+Maximum length of queue:839359
+Length of the path:8
+Steps to goal:
+start -> equa_dec -> long0_180_inc -> long0_180_inc -> long0_180_inc -> equa_dec -> long90_270_inc -> equa_dec -> long0_180_inc
+
+File: Puzzle2-19
+Algorithm stopped at 8 level
+Number of states expanded:204464
+Maximum length of queue:778788
+Length of the path:8
+Steps to goal:
+start -> equa_dec -> long0_180_inc -> equa_dec -> equa_dec -> long0_180_dec -> equa_dec -> long90_270_inc -> equa_dec
+
+File: Puzzle2-8
+Reached goal in 28.72718381881714seconds
+Number of states expanded:41761
+Maximum length of queue:160753
+Length of the path:7
+Steps to goal:
+start -> equa_dec -> long0_180_dec -> long0_180_dec -> long90_270_dec -> long0_180_inc -> long90_270_inc -> long0_180_inc -> goal
+
+File: Puzzle2-11
+Reached goal in 11.754987001419067seconds
+Number of states expanded:28331
+Maximum length of queue:109246
+Length of the path:7
+Steps to goal:
+start -> equa_dec -> equa_dec -> long90_270_dec -> equa_dec -> long90_270_inc -> long0_180_dec -> long90_270_inc -> goal
+
+File: Puzzle2-12
+Reached goal in 212.09317898750305seconds
+Number of states expanded:106666
+Maximum length of queue:407831
+Length of the path:7
+Steps to goal:
+start -> long0_180_dec -> long90_270_dec -> equa_inc -> equa_inc -> long0_180_inc -> equa_dec -> long90_270_dec -> goal
+
+File: Puzzle2-16
+Algorithm stopped at 8 level
+Number of states expanded:241335
+Maximum length of queue:918953
+Length of the path:8
+Steps to goal:
+start -> equa_inc -> long90_270_dec -> equa_dec -> long90_270_inc -> long0_180_inc -> equa_dec -> long90_270_dec -> equa_inc
+
+File: Puzzle2-3
+Algorithm stopped at 7 level
+ in time 3442.5917019844055Number of states expanded:124741
+Maximum length of queue:475982
+Length of the path:7
+Steps to goal:
+start -> long0_180_inc -> long90_270_dec -> long90_270_dec -> equa_inc -> long0_180_inc -> long0_180_inc -> long0_180_inc
+
+File: Puzzle2-2
+Algorithm stopped at 8 level
+ in time 1800.0167229175568Number of states expanded:261194
+Maximum length of queue:994278
+Length of the path:8
+Steps to goal:
+start -> equa_inc -> long90_270_inc -> equa_inc -> long90_270_dec -> equa_dec -> long0_180_dec -> equa_dec -> equa_dec
+
+File: Puzzle2-15
+Algorithm stopped at 8 level
+ in time 1800.0180530548096Number of states expanded:267546
+Maximum length of queue:1018298
+Length of the path:8
+Steps to goal:
+start -> equa_inc -> long90_270_inc -> long0_180_dec -> equa_dec -> equa_dec -> long90_270_dec -> equa_dec -> long0_180_dec
+
